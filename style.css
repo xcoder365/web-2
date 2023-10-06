@@ -1,0 +1,54 @@
+body {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+#content {
+    overflow: auto;
+    height: 100%;
+}
+#nav, #feature, #footer {
+    background-color: aqua;
+    padding: 10px;
+    margin:10px;
+}
+
+.fruit1, .fruit2, .fruit3 {
+    background-color: chartreuse;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    font-size: large;
+    
+}
+
+li {
+    display: inline;
+    padding: 15px;
+}
+
+.apple {
+    background-color: red;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    font-size: large;
+    
+}
+.banan {
+    background-color: yellow;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    font-size: large;
+    
+}
+
+.kiwi {
+    background-color: chartreuse;
+    width: 300px;
+    float: left;
+    margin: 10px;
+    font-size: large;
+    
+}
